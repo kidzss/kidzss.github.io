@@ -6,7 +6,7 @@
     <description>Recent content on Even - A super concise theme for Hugo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 20 Aug 2017 21:38:52 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 11 Feb 2020 11:33:24 +0800</lastBuildDate>
     
 	<atom:link href="https://kidzss.github.io/index.xml" rel="self" type="application/rss+xml" />
     
@@ -20,6 +20,15 @@
       <description>Hugo is a static site engine written in Go.
 It makes use of a variety of open source projects including:
  Cobra Viper J Walter Weatherman Cast  Learn more and contribute on GitHub.</description>
+    </item>
+    
+    <item>
+      <title>Object C基础知识（分类知多少）</title>
+      <link>https://kidzss.github.io/object-c%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86%E5%88%86%E7%B1%BB%E7%9F%A5%E5%A4%9A%E5%B0%91/</link>
+      <pubDate>Tue, 11 Feb 2020 11:33:24 +0800</pubDate>
+      
+      <guid>https://kidzss.github.io/object-c%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86%E5%88%86%E7%B1%BB%E7%9F%A5%E5%A4%9A%E5%B0%91/</guid>
+      <description>1.分类的概念： Category是Objective-C 2.0之后添加的语言特性，Category的主要作用是为已经存在的类添加方法。 Cat</description>
     </item>
     
   </channel>
