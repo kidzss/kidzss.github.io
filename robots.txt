@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://kidzss.github.io/sitemap.xml
